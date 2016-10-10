@@ -9,9 +9,9 @@ sub main {
 
 	#array starts with the @ sign
 	my @files = (
-		'/Users/ikkialjeffri/git/PerlLessons/PerlTut1/poster.png',
-		'/Users/ikkialjeffri/git/PerlLessons/PerlTut1/membership.html',
-		'/Users/ikkialjeffri/git/PerlLessons/PerlTut1/missing.txt',
+		'/Users/ikkialjeffri/git/PerlLessons/PerlTut1/resources/poster.png',
+		'/Users/ikkialjeffri/git/PerlLessons/PerlTut1/resources/membership.html',
+		'/Users/ikkialjeffri/git/PerlLessons/PerlTut1/resources/missing.txt',
 	);
 	
 	foreach my $file (@files) {
